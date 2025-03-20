@@ -8,7 +8,7 @@ A simple **cyberpunk-style** login form built with **HTML & CSS**.
 ✅ **Input Validation** – Basic input requirements included  
 
 ## 🖥️ Live Demo
-🔗 [Click Here to View](https://liutad.github.io/login-from/) *(Enable GitHub Pages first!)*
+🔗 [Click Here to View](https://liutad.github.io/login-from/emm.html) *(Enable GitHub Pages first!)*
 
 ## 📂 Technologies Used
 - **HTML** – Structure the form  
@@ -16,7 +16,7 @@ A simple **cyberpunk-style** login form built with **HTML & CSS**.
 
 ## 🎯 How to Use
 1. Clone the repo:  
-2. Open `index.html` in your browser.  
+2. Open `emm.html` in your browser.  
 
 ## 📌 Screenshot  
 ![Preview](screenshot.png) *(Upload an image and update the filename!)*  
